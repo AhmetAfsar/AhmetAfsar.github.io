@@ -1,1 +1,0 @@
-# AhmetAfsar.github.io
