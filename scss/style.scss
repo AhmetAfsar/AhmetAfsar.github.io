@@ -1,2 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+}
+// Renkler
+$anarenk:bisque;
+$color1: blue;
+$color2: maroon;
+$color3:white;
+$color4: yellow;
+$color5: green;
+$color6:purple;
+$color7:black;
+$color8:gray;
+// İslemler
+body{
+    background-color:$anarenk;
+}
 
+// 
 @import "../bootstrap/scss/bootstrap.scss"
